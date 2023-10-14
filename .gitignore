@@ -1,0 +1,23 @@
+# Byte-compiled / optimized files
+__pycache__/
+*.pyc
+*.txt
+*otf
+# Environment
+.env
+
+# Logs
+logs/
+
+# Database
+db.sqlite3
+
+# Compiled Python files
+*.pyc
+
+# Local development settings
+*.env
+*.log
+
+# Virtual environment
+venv/
